@@ -1,0 +1,10 @@
+# Discord Voice + STUN/TURN
+voice.discord.gg
+rtc.discord.gg
+media-relay.discord.gg
+region1.discord.gg
+region2.discord.gg
+region3.discord.gg
+region4.discord.gg
+stun.discord.gg
+turn.discord.gg
